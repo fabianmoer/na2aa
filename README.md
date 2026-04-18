@@ -1,6 +1,8 @@
 # na2aa
 Convert DNA sequences to longest amino acide sequence for all six reading frames
 
+*Old Interview project — DNA to amino acid translation across all six reading frames.*
+
 ## Installation
 I suppose you do not want to keep the package installed, thus I recommend
 to install it in a fresh virtual environment.
